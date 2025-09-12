@@ -62,11 +62,11 @@ def problema_especifico():
     return "El problema especifico es usar mineria de datos en un entorno escolar"
     pass
 def importancia():
-    return "El problema especifico es usar mineria de datos en un entorno escolar"
+    return "La importancia es aplicar mis conocimientos en un escenario controlado"
     pass
 def objetivos():
-    return "El problema especifico es usar mineria de datos en un entorno escolar"
+    return "Los objetivos son practicar y entender mejor los temas de clase"
     pass
 def tipo_de_datos():
-    return "El problema especifico es usar mineria de datos en un entorno escolar"
+    return "Informacion personal y calificaciones"
     pass
