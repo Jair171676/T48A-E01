@@ -60,15 +60,12 @@ def probabilidad_condicional():
 def problema_especifico():
     return "El problema especifico es usar mineria de datos en un entorno escolar"
     pass
-
 def importancia():
     
     pass
-
 def objetivos():
     
     pass
-
 def tipo_de_datos():
     
     pass
