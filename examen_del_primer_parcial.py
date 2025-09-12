@@ -9,3 +9,9 @@ def capitalizacion():
     moda = stats.mode(data).mode[0]
     desv_est = np.std(data)
     return (media, mediana, moda, desv_est)
+
+data = np.array([20100, 24500, 31600, 28400, 49500, 19350, 25600, 30600, 11300, 28560])
+    rango = np.ptp(data)
+    varianza = np.var(data)
+    desv_est = np.std(data)
+    return (rango, varianza, desv_est)
