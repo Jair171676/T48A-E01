@@ -43,7 +43,7 @@ def probabilidad_condicional():
 # Definición del Problema:
 
 # 7. ¿Cuál es el problema específico que se desea resolver con la minería de datos?
-#
+#Extraer datos importantes de grandes cantidades de datos
 # 8. ¿Por qué es importante resolver este problema?
 #
 # Objetivos del Proyecto:
