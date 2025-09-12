@@ -9,7 +9,7 @@ def capitalizacion():
     mediana = np.median(data)
     #moda = np.mode(data).mode[0]
     desv_est = np.std(data)
-    return (media, mediana, moda, desv_est)
+    return (media, mediana, desv_est)
 
 def asistencia_dispersion():
     data = np.array([20100, 24500, 31600, 28400, 49500, 19350, 25600, 30600, 11300, 28560])
