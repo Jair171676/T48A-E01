@@ -45,15 +45,30 @@ def probabilidad_condicional():
 # 7. ¿Cuál es el problema específico que se desea resolver con la minería de datos?
 #Extraer datos importantes de grandes cantidades de datos
 # 8. ¿Por qué es importante resolver este problema?
-#
+#Porque nos permite manejar informacion relevante de cantidades enormes de datos
 # Objetivos del Proyecto:
 
 # 9. ¿Cuáles son los objetivos principales del anteproyecto?
-#
+#Definir los parametros con los que trabajara el proyecto y establecer su alcanze
 # 10. ¿Qué resultados esperas obtener al final del proyecto?
-#
+#Un mejor entendimiento de la mineria de datos y sus aplicaciones
 # Recolección de Datos:
 
 # 11. ¿Qué tipo de datos se necesitarán para este proyecto?
-#
+#Informacion de contacto, calificaciones
 # Regresa una cadena de caracteres en cada función
+def problema_especifico():
+    return "El problema especifico es usar mineria de datos en un entorno escolar"
+    pass
+
+def importancia():
+    
+    pass
+
+def objetivos():
+    
+    pass
+
+def tipo_de_datos():
+    
+    pass
